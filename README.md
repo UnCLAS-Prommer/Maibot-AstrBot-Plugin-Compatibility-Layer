@@ -1,7 +1,6 @@
 # Maibot-AstrBot-Plugin-Compatibility-Layer
 用于兼容AstrBot插件的MaiBot插件兼容层
-![alt text](image.png)
-基于麦麦的最高指令，此代码进行全部混淆后以pyd的方式进行发布
+
 ## TODO
 - [ ] 基础部分
     - [x] 插件发现
