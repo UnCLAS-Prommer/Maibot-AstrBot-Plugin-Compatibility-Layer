@@ -1,0 +1,3 @@
+*__pycache__/
+**/astrbot_plugins/*
+!**/astrbot_plugins/README.md

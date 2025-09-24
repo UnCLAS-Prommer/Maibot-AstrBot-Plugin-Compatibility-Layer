@@ -1,0 +1,34 @@
+{
+    "manifest_version": 1,
+    "name": "麦麦的Astrbot插件兼容层",
+    "version": "0.0.1",
+    "description": "一个用于在MaiBot中运行AstrBot插件的兼容层插件。",
+    "author": {
+        "name": "UnCLAS-Prommer",
+        "url": "https://github.com/UnCLAS-Prommer"
+    },
+    "license": "GPL-v3.0-or-later",
+    "host_application": {
+        "min_version": "0.10.0",
+        "max_version": "0.11.0"
+    },
+    "homepage_url": "https://github.com/UnCLAS-Prommer/Maibot-AstrBot-Plugin-Compatibility-Layer",
+    "repository_url": "https://github.com/UnCLAS-Prommer/Maibot-AstrBot-Plugin-Compatibility-Layer",
+    "keywords": [
+        "Astrbot",
+        "Compatibility Layer"
+    ],
+    "categories": ["Compatibility Layer"],
+    "default_locale": "zh-CN",
+    "locales_path": "_locales",
+    "plugin_info": {
+        "is_built_in": false,
+        "plugin_type": "compatibility_layer",
+        "components": [],
+        "features": [
+            "消息格式转换",
+            "插件兼容",
+            "事件监听"
+        ]
+    }
+}

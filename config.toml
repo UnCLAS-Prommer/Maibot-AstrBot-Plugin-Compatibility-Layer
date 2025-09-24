@@ -1,0 +1,17 @@
+# MaiAstrCompatibilityLayer - 自动生成的配置文件
+# 一个用于在MaiBot中运行AstrBot插件的兼容层插件。
+
+# 插件基本设置
+[plugin]
+
+# 是否启用插件
+enabled = true
+
+
+# Astrbot插件相关配置
+[components]
+
+# 禁用的插件列表
+disabled_plugins = []
+
+
